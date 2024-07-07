@@ -39,7 +39,7 @@ Here you can type the first number. I'll use `934`
 Now you have to type the next number. I'll use `890`
 
 ``` 
-Type The Next NUMBER : 
+Type The Next NUMBER : # <INSERT SECOND NUMBER>
 ```
 _Note: It is not possible to operate on more than 2 separate numbers at once for now. I am working to fix that._
 
